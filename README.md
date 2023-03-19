@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brendan, an aspiring <a href="https://www.linkedin.com/in/brendan-clake-739883262/">IT Professional</a>☺</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/brendan-clake-739883262/">Brendan</a>, an aspiring IT Professional</a>☺</h1>
 
 <h2>📖 Certificates:</h2>
 
