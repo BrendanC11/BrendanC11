@@ -2,7 +2,7 @@
 
 <h2>📖 Certificates:</h2>
 
-<b>CourseCareers:<b/> <a href="https://www.linkedin.com/in/brendan-clake-739883262/">Practical Help Desk Professional</a>
+<b>CourseCareers:<b/> <a href="https://imgur.com/6c373531-782f-4abc-b46a-4c0f90d53685">Practical Help Desk Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
