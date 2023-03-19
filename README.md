@@ -1,5 +1,9 @@
 <h1>Hi, I'm Brendan, an aspiring <a href="https://www.linkedin.com/in/brendan-clake-739883262/">IT Professional</a>☺</h1>
 
+<h2>📖 Certificates:</h2>
+
+<b>CourseCareers:<b/> <a href="https://www.linkedin.com/in/brendan-clake-739883262/">Practical Help Desk Professional</a>
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
